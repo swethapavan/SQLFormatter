@@ -1,0 +1,8 @@
+﻿INSERT INTO
+    @table (
+        @column1[
+        , @column1]
+    ) VALUES (
+        @value1[
+        , @value1]
+       )

@@ -1,0 +1,5 @@
+﻿DELETE FROM
+	@table
+WHERE
+	@condition1 = @conditionvalue1[
+	AND @condition1 = @conditionvalue1]

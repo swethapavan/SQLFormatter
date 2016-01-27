@@ -1,0 +1,8 @@
+﻿SELECT
+	@column1 @columnalias1 , @column2 @columnalias2
+	[, @column1 @columnalias1 , @column2 @columnalias2]
+FROM
+	@table
+WHERE
+	@condition1 = @conditionvalue1[
+	AND @condition1 = @conditionvalue1 AND @condition2 = @conditionvalue2]
